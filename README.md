@@ -12,6 +12,8 @@ Cloud infrastructure development with AWS.
 ## 👯 Looking to collaborate on
 My current project [flutter_geo_math](https://github.com/Ujjwalsharma2210/flutter_geo_math)
 
+Skills: Flutter / Native Android / Data Structures / Algorithms
+
 <!--
 **Ujjwalsharma2210/Ujjwalsharma2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
