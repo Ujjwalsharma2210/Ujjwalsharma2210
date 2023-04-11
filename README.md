@@ -17,7 +17,7 @@ This projects is available as a flutter plugin [here](https://pub.dev/packages/f
 
 ## 🔥 projects
 
-[A flutter package for map related calculations](https://pub.dev/packages/flutter_geo_math)
+[A flutter package for map related calculations](https://pub.dev/packages/flutter_geo_math)<br>
 [A movies information and watchlist mobile app](https://play.google.com/store/apps/details?id=com.sujjwal.movie_magic)
 
 <!--
