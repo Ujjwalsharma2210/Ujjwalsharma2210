@@ -1,7 +1,7 @@
 ### Hello there 👋🏼, Ujjwal Sharma
 I'm Ujjwal from India, and I am a software engineer. I enjoy creating and learning about mobile applications the most. Some frameworks I use are flutter  and native android. I also enjoy wireframing and ui, ux and design in general.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalsharma2210&layout=compact) ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ujjwalsharma2210&theme=merko)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ujjwalsharma2210&layout=compact) ![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ujjwalsharma2210&theme=merko)
 
 Skills: Flutter / Native Android / Data Structures / Algorithms
 
